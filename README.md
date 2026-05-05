@@ -11,7 +11,7 @@ This is a piece of software that might be useless, but it is free as in freedom.
 
 This project is licensed under the **GNU GPLv3**.
 
-[![License: GPL v3](https://shields.io)](https://gnu.org)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 You are free to:
 * Use the code for any purpose.
