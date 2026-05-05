@@ -3,7 +3,8 @@
 <img width="544" height="416" alt="copy" src="https://github.com/user-attachments/assets/e1dfbbc8-fd9e-47e7-8355-c8d3fd01e7de" />
 
 
-I believe it's the smallest ZX Spectrum game so far.
+I believe it's the smallest ZX Spectrum game so far. It's only 23 bytes!
+
 This is a piece of software that might be useless, but it is free as in freedom.
 
 ## 📜 License
