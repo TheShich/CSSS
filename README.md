@@ -22,7 +22,7 @@ You are free to:
 
 ## 🚀 Quick Start
 
-Just compile the source with your favorite compiller. Or use pre-build TAP on real Spectrum (48K or higher in "48K BASIC" mode). Or use emulator in 48K mode.
+Just compile the source with your favorite compiller. Or use pre-built TAP on real Spectrum (48K model or higher in "48K BASIC" mode). Or just use emulator (e.g. free Fuse).
 More information: https://theshich.itch.io/csss-the-smallest-game-zx-spectrum
 ---
 "Free software is a matter of liberty, not price." — Richard Stallman
